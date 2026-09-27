@@ -1,0 +1,6 @@
+{
+  "name": "VeritasAI - Analyst & Auditor Research Engine",
+  "description": "Autonomous dual-agent research and independent verification system with persistent entity memory, live source retrieval, contradiction resolution, and iterative claim auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
